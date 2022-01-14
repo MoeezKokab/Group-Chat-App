@@ -1,0 +1,9 @@
+npm i react-native-gifted-chat
+npm install @react-navigation/native
+expo install react-native-screens react-native-safe-area-context
+npm install @react-navigation/stack
+expo install react-native-gesture-handler
+npm install --save firebase
+npm install react-native-elements
+
+rnfe
